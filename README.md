@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Daulat309
 - 👀 I’m interested in Web Developement and Machine Learning
 - 🌱 I’m currently learning Full Stack Web, Machine Learning and DSA with JAVA
-- 💞️ I’m looking to collaborate on Machine learning project with NLP
 - 📫 How to reach me https://www.linkedin.com/in/daulat-tikhole-549b50219/
 - 😄 Pronouns: DT
 - ⚡ Fun fact: Always Hungry
